@@ -47,7 +47,7 @@ export const LoginStage = ({ onSuccess }: LoginStageProps) => {
         playsInline
         className="absolute inset-0 h-full w-full object-cover"
       >
-        <source src="/videos/login-background.mp4" type="video/mp4" />
+        <source src="/projetososo/videos/login-background.mp4" type="video/mp4" />
       </video>
 
       <div className="absolute inset-0 bg-background/70" />
