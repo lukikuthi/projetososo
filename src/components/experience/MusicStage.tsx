@@ -16,7 +16,7 @@ export const MusicStage = ({ onComplete }: MusicStageProps) => {
             transition={{ duration: 1 }}
             className="mb-4 font-serif text-3xl font-light md:text-4xl text-foreground"
           >
-            Essa música me lembra que..
+            Essa música me lembra..
           </motion.h2>
 
           <motion.p
@@ -25,7 +25,7 @@ export const MusicStage = ({ onComplete }: MusicStageProps) => {
             transition={{ delay: 0.5, duration: 1 }}
             className="mb-12 font-serif text-lg italic text-muted-foreground"
           >
-            mesmo no caos, você é a minha paz.
+            as primeiras vezes em que te vi!
           </motion.p>
 
           <motion.div
@@ -36,11 +36,11 @@ export const MusicStage = ({ onComplete }: MusicStageProps) => {
           >
             <div className="relative bg-card/80 p-8 text-center">
   <p className="font-serif text-muted-foreground mb-4">
-    Solta o play princesa, clica nos três pontos e toca no Spotfy
+    Solta o play princesa!
   </p>
 
   <iframe
-    src="https://open.spotify.com/embed/track/0lPWEt7kSY37pSUIH68ME0?utm_source=generator&theme=0"
+    src="https://open.spotify.com/embed/track/6MCaOLDl0epJPRN76H5S4N?utm_source=generator&theme=0"
     width="100%"
     height="152"
     frameBorder="0"
