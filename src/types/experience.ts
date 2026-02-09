@@ -29,41 +29,41 @@ export const STAGES: StageConfig[] = [
 
 export const PLACEHOLDER_IMAGES = {
   login: {
-    floating: '/images/image1.jpeg',
+    floating: '/projetososo/images/image1.jpeg',
   },
   introduction: {
-    parallax: '/images/image2.jpeg',
-    accent: '/images/image3.jpeg',
+    parallax: '/projetososo/images/image2.jpeg',
+    accent: '/projetososo/images/image3.jpeg',
   },
   music: {
-    main: '/images/image4.jpeg',
-    floating: '/images/image5.jpeg',
+    main: '/projetososo/images/image4.jpeg',
+    floating: '/projetososo/images/image5.jpeg',
   },
   minigameWords: {
-    reward: '/images/image13.jpeg',
-    hint: '/images/image1.jpeg',
+    reward: '/projetososo/images/image13.jpeg',
+    hint: '/projetososo/images/image1.jpeg',
   },
   minigameMemory: {
-    reward: '/images/image16.jpeg',
-    cards: '/images/image16.jpeg',
+    reward: '/projetososo/images/image16.jpeg',
+    cards: '/projetososo/images/image16.jpeg',
   },
   minigamePuzzle: {
-    reward: '/images/image7.jpeg',
-    preview: '/images/image9.jpeg',
+    reward: '/projetososo/images/image7.jpeg',
+    preview: '/projetososo/images/image9.jpeg',
   },
   error: {
-    misaligned: '/images/image5.jpeg',
-    corrected: '/images/image17.jpeg',
+    misaligned: '/projetososo/images/image5.jpeg',
+    corrected: '/projetososo/images/image17.jpeg',
   },
   vulnerability: {
-    static: '/images/image7.jpeg',
-    background: '/images/image7.jpeg',
+    static: '/projetososo/images/image7.jpeg',
+    background: '/projetososo/images/image7.jpeg',
   },
   finale: {
-    heart1: '/images/image16.jpeg',
-    heart2: '/images/image17.jpeg',
-    heart3: '/images/image18.jpeg',
-    heart4: '/images/image19.jpeg',
+    heart1: '/projetososo/images/image16.jpeg',
+    heart2: '/projetososo/images/image17.jpeg',
+    heart3: '/projetososo/images/image18.jpeg',
+    heart4: '/projetososo/images/image19.jpeg',
   },
 };
 
