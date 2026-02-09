@@ -25,7 +25,7 @@ export const FinaleStage = () => {
         playsInline
         className="absolute inset-0 h-full w-full object-cover"
       >
-        <source src="/videos/finale-background.mp4" type="video/mp4" />
+        <source src="/projetososo/videos/finale-background.mp4" type="video/mp4" />
       </video>
 
       <div className="absolute inset-0 bg-background/70" />
